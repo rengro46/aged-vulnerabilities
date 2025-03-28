@@ -35,11 +35,11 @@ Results were as follows:
 
 
 
-Buss System						Operating System	Qty		%Aged
+Buss System				Operating System	Qty		%Aged
 
 System 1 (Network Monitor)		Windows 2008		2		13
-								Windows 2012		14		5
-								CentOS 6			17		16
+					Windows 2012		14		5
+					CentOS 6			17		16
 System 2 (Hosted Xchange)		Windows 2012		27		15
 
 System 3 (DNS Proxy)
