@@ -52,4 +52,11 @@ Results were as follows:
 
 ---
 
+Remediation of remainder of Aged Vulnerabilty Systems
 
+Each of the identified applications was discussed with their respective owners as being out of compliance. It was made clear to them and the regional CIO that urgent steps will need to be taken to reduce the risk to the organisation by remediating the severity 4 & 5 vulnerabilties ASAP. It was made very clear that these applications are long overdue for either redevelopment/rehosting and or replatforming required. 
+
+A remediation plan with an associated timeline was compiled with each of these application owners. This was used to construct high level program and project plans in order to compile budgetrequirements for these remediation efforts w.r.t. overtime to be worked as well a contractor resources to be brought on-board for the duration of the remediation period. All of these documents were presented to InfoSec Exco for approval. Each of these identified applications was registered as a remediation stream and tracked through daily standups, bi-weekly reviews and quarterly Exco feedback sessions
+
+
+---
