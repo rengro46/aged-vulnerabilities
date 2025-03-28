@@ -38,16 +38,16 @@ Results were as follows:
 | Buss System				| Operating System	| Qty		| %Aged |
 | ------------------------------------- | --------------------- | ------------- | ----- |
 | System 1 (NMS - Network Monitor)	| Windows 2008		| 2		| 13    |
-					Windows 2012		14		5
-					CentOS 6		17		16
-System 2 (Hosted Xchange)		Windows 2012		27		15
-System 3 (DNS Proxy)			CentOS 6		8		9
-System 4 (VPN Access)			Debian 8.x		8		2
-System 5 (Trafficker)			CentOs 6		4		5
-System 6 (Legacy SAP)			Windows 2012		9		7
-System 7 (HR Sharepoint Records)	Windows 2012		8		5
-System 8 (containerisation)		CentOS 6, Ubuntu	23		32
-								TOTAL		100
+|					| Windows 2012		| 14		| 5     |
+|                			| CentOS 6		| 17		| 16    | 
+| System 2 (Hosted Xchange)		| Windows 2012		| 27		| 15    |
+| System 3 (DNS Proxy)			| CentOS 6		| 8		| 9     |
+| System 4 (VPN Access)			| Debian 8.x		| 8		| 2     |
+| System 5 (Trafficker)			| CentOs 6		| 4		| 5     |
+| System 6 (Legacy SAP)			| Windows 2012		| 9		| 7     |
+| System 7 (HR Sharepoint Records)	| Windows 2012		| 8		| 5     |
+| System 8 (containerisation)		| CentOS 6, Ubuntu	| 23		| 32    |
+| 								|TOTAL		| 100   |
 
 ---
 
