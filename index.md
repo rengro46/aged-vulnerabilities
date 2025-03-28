@@ -35,9 +35,9 @@ Results were as follows:
 
 
 
-Buss System				Operating System	Qty		%Aged
-
-System 1 (NMS - Network Monitor)	Windows 2008		2		13
+| Buss System				| Operating System	| Qty		| %Aged |
+| ------------------------------------- | --------------------- | ------------- | ----- |
+| System 1 (NMS - Network Monitor)	| Windows 2008		| 2		| 13    |
 					Windows 2012		14		5
 					CentOS 6		17		16
 System 2 (Hosted Xchange)		Windows 2012		27		15
