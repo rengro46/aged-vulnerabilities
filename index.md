@@ -52,7 +52,7 @@ Results were as follows:
 
 ---
 
-Remediation of remainder of Aged Vulnerabilty Systems
+### Remediation of remainder of Aged Vulnerabilty Systems
 
 Each of the identified applications was discussed with their respective owners as being out of compliance. It was made clear to them and the regional CIO that urgent steps will need to be taken to reduce the risk to the organisation by remediating the severity 4 & 5 vulnerabilties ASAP. It was made very clear that these applications are long overdue for either redevelopment/rehosting and or replatforming required. 
 
