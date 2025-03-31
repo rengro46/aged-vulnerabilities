@@ -90,6 +90,11 @@ Despite the organization's security policy mandating the resolution of all sever
 * Security Leadership: Regional Information Security Officer
 * IT Leadership: Regional CIO  
 
+### Conclusion
+
+
+This project aims to enhance the organization’s cybersecurity posture by identifying and addressing the reasons for aged vulnerabilities exceeding the 60-day resolution timeline. By implementing process improvements, we will mitigate security risks, improve compliance, and strengthen overall vulnerability management practices.
+
 ---
 
 ## Project Execution
