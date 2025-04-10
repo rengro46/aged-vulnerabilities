@@ -1,6 +1,6 @@
 ---
 
-<img src="./aged_vuln.jpg">
+<img src="./aged_vuln.png">
 
 ---
 
