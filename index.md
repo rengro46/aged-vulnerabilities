@@ -1,4 +1,6 @@
+---
 
+<img src="./aged.jpg?raw=true" width=250 height=300/>
 
 ---
 
