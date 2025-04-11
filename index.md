@@ -1,11 +1,11 @@
----
 
-<img src="./aged_vuln.jpg?raw=true" width=450 height=300>
 
 ---
+
 
 ## Investigate & Remediate Aged (>60days) Vulnerabilties 
 
+<img src="./aged_vuln.jpg?raw=true" width=450 height=300>
 
 ### Problem Statement
 
