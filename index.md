@@ -1,6 +1,6 @@
 ---
 
-<img src="./aged_vuln.jpg" width=450 height=300>
+<img src="./aged_vuln.jpg?raw=true" width=450 height=300>
 
 ---
 
